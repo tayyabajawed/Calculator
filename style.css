@@ -1,0 +1,28 @@
+.main{
+    border: 2px solid black;
+    width: 170px;
+    margin: 0 auto;
+}
+.result{
+    background-color:darkseagreen;
+    color: black;
+}
+.clearbtn{
+    width: 95%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: darkseagreen;
+    margin-left: 3px;
+}
+.btn{
+    margin-bottom: 2px;
+    width: 35px;
+    background-color: darkseagreen;
+    margin-left: 3px;
+}
+.halfbtn{
+    width: 45%;
+    margin-bottom: 5px;
+    background-color: darkseagreen;
+    margin-left: 3px;
+}
